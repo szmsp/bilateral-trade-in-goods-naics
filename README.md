@@ -1,5 +1,5 @@
 # U.S. Bilateral Trade in Goods, by three-digit NAICS code
-Pull and see year-on-year trends in Census U.S. bilateral trade in goods data by three-digit NAICS code
+Pull and see year-on-year trends in U.S. bilateral trade in goods data by three-digit NAICS code
 
 This program is designed as an example of how to download and format trade in goods data by three-digit NAICS code from the U.S. Census API. It allows users flexibility to specify the country and time period of interest. 
 
